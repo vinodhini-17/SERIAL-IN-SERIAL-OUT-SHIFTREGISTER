@@ -38,6 +38,9 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 6.If the reset signal is not asserted, assign the value of sin to the first flip-flop (q[0]) and shift the values of q to the right.
 
 7.End the module declaration.
+
+
+
 **PROGRAM**
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
